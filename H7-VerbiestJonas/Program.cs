@@ -8,7 +8,7 @@ namespace H7_VerbiestJonas
 {
     static class Program
     {
-        //wijziging
+        //wijziging 
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
